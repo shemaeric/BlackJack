@@ -1,2 +1,3 @@
 # BlackJack
-Js
+
+The simple Card Game
