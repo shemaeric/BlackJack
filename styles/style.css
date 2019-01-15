@@ -1,3 +1,6 @@
-.game {
-	align-items: center;
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* Center the page horizontally */
+  align-items: center; /* Center the page vertically */
 }
